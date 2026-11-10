@@ -56,7 +56,7 @@ button:hover {
 
 /* 修改等號按鈕的顏色 */
 .equals {
-    background: #2196f3;  /* 改為藍色 */
+    background: #f32121;  /* 改為藍色 */
     color: white;
     grid-row: span 2;
 }
